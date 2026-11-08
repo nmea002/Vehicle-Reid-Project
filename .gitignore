@@ -1,4 +1,4 @@
-# Datasets: too big for git, live on Google Drive (see README)
+# Datasets:
 data/
 
 # Third-party clone, not used by the notebook
@@ -24,3 +24,4 @@ venv/
 Thumbs.db
 desktop.ini
 .vscode/
+nextsteps.txt
