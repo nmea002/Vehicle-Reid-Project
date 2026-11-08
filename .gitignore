@@ -1,0 +1,26 @@
+# Datasets: too big for git, live on Google Drive (see README)
+data/
+
+# Third-party clone, not used by the notebook
+fast-reid/
+
+# Training outputs
+log/
+logs/
+*.pth
+*.pth.tar*
+*.pt
+*.ckpt
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
